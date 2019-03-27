@@ -1,0 +1,1 @@
+PCorTraining<-lm(Training$x1+Training$x2+Training$x3+Training$x4+Training$x9+Training$x10+Training$x11+Training$x13+Training$x14+Training$x15+Training$x16+Training$x17+Training$x18+Training$x20+Training$x21+Training$x22+Training$x27+Training$x28+Training$x30+Training$x32+Training$x33+Training$x34+Training$x35+Training$x36)
